@@ -1,0 +1,8 @@
+[
+	"GameScene.ts",
+	"Pacman.ts",
+	"GameManager.ts",
+	"LoadingUI.ts",
+	"Constants.ts",
+	"Main.ts"
+]

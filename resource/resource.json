@@ -1,0 +1,19 @@
+{
+	"groups":[
+	{
+		"keys":"pacman_json,noWay",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"noWay",
+		"type":"json",
+        "url": "config/noWay.json"
+	},
+	{
+		"name":"pacman_json",
+		"subkeys":"bean,bg,pacman",
+		"type":"sheet",
+		"url":"assets/pacman.json"
+	}]
+}

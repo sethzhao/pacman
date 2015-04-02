@@ -1,0 +1,4 @@
+{"file":"pacman.png","frames":{
+"bean":{"x":1,"y":231,"w":2,"h":2,"offX":0,"offY":0,"sourceW":2,"sourceH":2},
+"pacman":{"x":1,"y":215,"w":14,"h":14,"offX":0,"offY":0,"sourceW":14,"sourceH":14},
+"bg":{"x":1,"y":1,"w":164,"h":212,"offX":0,"offY":0,"sourceW":164,"sourceH":212}}}
